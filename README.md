@@ -3,6 +3,10 @@ https://www.youtube.com/watch?v=UGELwE3k-Lc
 * THE COMMANDS LIKE END GAME MUST GET SENDED SOMEWHERE; AND THE MOD MENU CAN PREVENT THEM
 * SO I HAVE TO FIND OUT HOW IT WORKS
 
+### MW2/MW3 RCE Exploit
+https://www.youtube.com/watch?v=rdhcYNAcYrc
+https://www.youtube.com/watch?v=HoS8dhoT01o
+
 https://github.com/skiff/PS3-Toolbox
 https://consolecrunch.com/threads/ps3-sdk-4-75-and-prodg-v4-70-and-visual-studio-2010-and-2013-professional.30195/
 https://www.youtube.com/watch?v=tROYWX9NPPQ
