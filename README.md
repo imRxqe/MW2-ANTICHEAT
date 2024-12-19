@@ -1,4 +1,14 @@
+# Todo
+* Look through source of mw3 RCE tool
+* Look in depth how the rce explooit works
+* Continue making RTM tool to patch all the fuckery
+
+
+
 # MW2 ist voller Nuttensöhne die ungefragt XP lobbys starten upranken oder deranken
+https://github.com/momo5502/cod-exploits
+
+
 https://www.youtube.com/watch?v=UGELwE3k-Lc
 * THE COMMANDS LIKE END GAME MUST GET SENDED SOMEWHERE; AND THE MOD MENU CAN PREVENT THEM
 * SO I HAVE TO FIND OUT HOW IT WORKS
