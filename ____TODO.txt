@@ -1,0 +1,46 @@
+1. Patch RCE
+-> How does the RCE work and how to patch
+=========================================
+
+
+
+
+Resear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cheating and patching process info aldostools
+https://github.com/aldostools/webMAN-MOD/wiki/~-Cheating-&-Patching-Processes
+
+https://github.com/skiff/PS3-Toolbox
+Read about TOC pointers in mw2 >> 
+https://nextgenupdate.com/forums/modern-warfare-2-mods-patches-tutorials/734045-114-rpc-fixed-1.html
+
+
+Load SPRX without EBOOT
+https://github.com/TheRouletteBoi/RouLetteVshMenu
+
+-> Show the current host
+-> Super force host
+https://nextgenupdate.com/forums/modern-warfare-2-mods-patches-tutorials/958704-c-mw2-114-super-force-host-offsets.html
+-> What is shake package
+https://github.com/momo5502/cod-exploits/tree/master/huffman
+offsets 1.14: https://ihaxglobal.com/threads/call-of-duty-modern-warfare-2-1-14.161/
+https://nextgenupdate.com/forums/modern-warfare-2-mods-patches-tutorials/689693-114-mw2-offsets-list.html

@@ -1,13 +1,30 @@
+* On nextgenupdate checkout EliteMossy, seb5594, SC58 etc
+https://nextgenupdate.com/forums/members/192973-elitemossy.html
+
+* UnrxstrictCFW has Anti RCE
+* I now have the menu working -> reversable
+* I know the function start, I know a maybe fix
+* I need to learn how to read memory, call functions and modify behavior based on memory
+* So i need to learn ps3 detours
+
+NON HOST End Game Codes
+https://nextgenupdate.com/forums/call-duty-series/1018135-ps3c-non-host-end-game-codes.html
+MW2: RPC.CBuf_AddText(0, "cmd mr " + PS3.Extension.ReadInt32(0x1BE5BE8) + " 3 endround"); //RPC.Call(0x1D9EC0, 0, "cmd mr " + PS3.Extension.ReadInt32(0x1BE5BE8) + " 3 endround");
+
 # Todo
+* Look into the source code and how to patch RCE
 * Look through source of mw3 RCE tool
 * Look in depth how the rce explooit works
 * Continue making RTM tool to patch all the fuckery
 
-
+Sabotage NGU GOOD RESOURCE FOR CODE
+https://nextgenupdate.com/forums/members/830947-sabotage.html
 
 # MW2 ist voller Nuttensöhne die ungefragt XP lobbys starten upranken oder deranken
 https://github.com/momo5502/cod-exploits
 
+
+Anti Derank feature
 
 https://www.youtube.com/watch?v=UGELwE3k-Lc
 * THE COMMANDS LIKE END GAME MUST GET SENDED SOMEWHERE; AND THE MOD MENU CAN PREVENT THEM
